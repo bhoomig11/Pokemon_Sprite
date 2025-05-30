@@ -6,7 +6,7 @@
 //         fetch(url, {options}) - default is GET
 
 // fetch resource using promise:
-// fetch("https://pokeapi.co/api/v2/pokemon/pikachus")
+// fetch("https://pokeapi.co/api/v2/pokemon/pikachu")
 //      .then(response => {
 //         if(!response.ok) {
 //             throw new Error("Could not fetch resource")
