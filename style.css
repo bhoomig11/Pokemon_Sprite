@@ -1,0 +1,36 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 10px;
+    background-color: hsl(63, 94%, 80%);
+}
+
+#pokemonName{
+    padding: 10px 20px;
+    text-align: left;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 2.5rem;
+    border: none;
+    border-radius: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    color: hsl(0, 3%, 6%);
+    background-color: hsl(0, 74%, 64%);
+    transition: background-color 0.5s ease;
+}
+
+button:hover{
+    background-color: hsl(0, 67%, 73%);
+}
+
+#pokemonImg {
+    text-align: center;
+}
